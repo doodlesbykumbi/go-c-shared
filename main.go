@@ -10,3 +10,4 @@ import "C"
 func main() {
 	C.mylog()
 }
+
